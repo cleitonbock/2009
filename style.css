@@ -63,7 +63,7 @@ body  {
     margin: 0 10em;
     grid-template-columns: 50% 50%;
     display: grid;
-    height: 100vh;
+   
 }
 .descricao__titulo{ 
     font-weight: 700;
