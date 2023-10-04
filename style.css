@@ -58,7 +58,7 @@ body  {
 .secundario__imagem{ 
     width: 40%;
 }
-.secundario {
+.container__secundario {
     align-items: center;
     margin: 0 10em;
 }
