@@ -23,7 +23,7 @@ body  {
     align-items: center;
     text-align: center;
 }
-.container_principal {
+.container__principal {
     height: 100vh;
     display: grid;
     grid-template-columns: 50% 50%;
