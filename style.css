@@ -61,6 +61,7 @@ body  {
 .container__secundario {
     align-items: center;
     margin: 0 10em;
+    grid-template-columns: 50% 50%;
 }
 .descricao__titulo{ 
     font-weight: 700;
@@ -71,7 +72,4 @@ body  {
 .descricao__texto{
     color: var(--cinza-secundario);
    
-}
-.container__descricao{
-    align-items: center;
 }
