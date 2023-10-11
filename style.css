@@ -76,3 +76,7 @@ body  {
     color: var(--cinza-secundario);
    
 }
+.botao__secundario {
+    display: inline-block;
+    margin-top: 1em;
+}
